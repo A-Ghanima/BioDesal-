@@ -4,7 +4,7 @@ This project provides a simple PHP login system using sessions, with optional "R
 
 ---
 
-## ✅ Features
+## ✅ Features.
 
 - 🔐 Secure login using **email or username**
 - 🔒 Passwords are verified using PHP's built-in `password_verify()`
